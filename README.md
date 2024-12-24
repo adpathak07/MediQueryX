@@ -1,6 +1,3 @@
-Here's a comprehensive **README.md** for your GitHub repository, along with installation and setup instructions.
-
----
 
 # **MediQuery AI**
 
